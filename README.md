@@ -11,3 +11,9 @@
 
 
 <img alt="Tobse's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=sheikh-20&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+---
+<h1 align="center">🗂 Projects</h1>
+
+## 📋 Templates
+[![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=MoviesApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sheikh-20/MoviesApp)
