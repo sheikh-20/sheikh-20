@@ -9,8 +9,8 @@
 > Apart from coding, I like reading history books, exploring techstack, having chats in the evenings with friends and playing computer games.
 > As corona limited a few outdoor hobbies, I also bought myself a 3D printer which I feed with plastic and construction plans.
 
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1B27.svg?&style=for-the-badge&logo=github&logoColor=white" />
-<img alt="GitHub Repo Counter" src="https://raw.githubusercontent.com/TobseF/github-badge/master/github-repo-count.svg"/>
-<img alt="GitHub Followers" src="https://img.shields.io/github/followers/tobsef.svg?style=for-the-badge&logo=GitHubSponsors&label=Follow&maxAge=2592000&color=E14BA5"/>
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1B27.svg?&style=for-the-badge&logo=github&logoColor=white" />][GitHub]
+[<img alt="GitHub Repo Counter" src="https://raw.githubusercontent.com/TobseF/github-badge/master/github-repo-count.svg"/>][GitHub]
+[<img alt="GitHub Followers" src="https://img.shields.io/github/followers/tobsef.svg?style=for-the-badge&logo=GitHubSponsors&label=Follow&maxAge=2592000&color=E14BA5"/>][GitHub]
 
 <img alt="Tobse's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=sheikh-20&show_icons=true&theme=tokyonight&hide_border=true"/>
