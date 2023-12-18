@@ -9,4 +9,4 @@
 > Apart from coding, I like reading history books, exploring techstack, having chats in the evenings with friends and playing computer games.
 > As corona limited a few outdoor hobbies, I also bought myself a 3D printer which I feed with plastic and construction plans.
 
-[<img alt="Tobse's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=sheikh-20&show_icons=true&theme=tokyonight&hide_border=true"/>][GitHub]
+<img alt="Tobse's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=sheikh-20&show_icons=true&theme=tokyonight&hide_border=true"/>
