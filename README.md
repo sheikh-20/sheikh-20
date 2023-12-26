@@ -10,7 +10,7 @@
 > As corona limited a few outdoor hobbies, I also bought myself a 3D printer which I feed with plastic and construction plans.
 
 
-<img alt="Tobse's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=sheikh-20&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img alt="Sheikh's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=sheikh-20&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 ---
 <h1 align="center">🗂 Projects</h1>
