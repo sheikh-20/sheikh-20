@@ -19,5 +19,5 @@
 [![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=MoviesApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sheikh-20/MoviesApp)
 [![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=YoutubeApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sheikh-20/YoutubeApp)
 
-## Contributions
+## 🤝 Contributions
 ![Snake animation](https://github.com/sheikh-20/sheikh-20/blob/output/github-contribution-grid-snake.svg)
