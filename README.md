@@ -20,7 +20,7 @@
 [![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=YogaApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sheikh-20/YogaApp)
 
 [![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=YoutubeApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sheikh-20/YoutubeApp)
-[![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=newsline&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sheikh-20/newsline)
+[![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=Newsline&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sheikh-20/newsline)
 
 ## 🤝 Contributions
 [![Sheikh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikh-20&theme=vue)](https://github.com/sheikh-20/github-readme-activity-graph)
